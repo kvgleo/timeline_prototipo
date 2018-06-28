@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">timeline_</string>
+    <string name="novo">NOVO</string>
+    <string name="salvar">SALVAR</string>
+    <string name="titulo">insira um título...</string>
+    <string name="descr">descrição...</string>
+    <string name="periodo">periodo...</string>
+    <string name="ntitulo">novo titulo...</string>
+    <string name="nperiodo">novo periodo..</string>
+    <string name="ndescr">nova descrição...</string>
+    <string name="rmv">removido.</string>
+    <string name="suc">alterado com sucesso!</string>
+    <string name="erro">ocorreu um erro.</string>
+    <string name="ins">inserido com sucesso!</string>
+    <string name="erro2">preencha os campos adequadamente...</string>
+    <string name="add">ADICIONAR</string>
+</resources>
